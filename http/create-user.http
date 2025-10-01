@@ -11,11 +11,11 @@ Content-Type: application/json
 
 ### Railway
 
-POST https://api-production-dcaa.up.railway.app/users
+POST https://myapp-production-e2bd.up.railway.app/users
 Content-Type: application/json
 
 {
-  "name": "João Silva",
-  "email": "joao.silva@email.com",
-  "password": "123456"
+  "name": "Lucas Alves",
+  "email": "Lucas.alves@email.com",
+  "password": "22222"
 }
